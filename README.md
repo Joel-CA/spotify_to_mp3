@@ -39,7 +39,7 @@ python3 main.py [replace with Spotify playlist ID (without the brackets)] --play
 - Because of Google API requests' daily rate limits, you're only able to do playlists with ~100 songs (I'm guestimating) at a time before you run out of units for the day. One workaround is splitting up your playlists and either waiting a day between downloading or using additional Google API key(s) (made on alternate Google accounts) per playlist section.
 
 ### Potential Future Updates
-- Figuring out how to work around YouTube API limits more efficiently so that converting multiple and larger playlists is possible
+- Figuring out how to work around YouTube API limits more efficiently so that converting multiple and larger playlists at a time is possible
 - Building a front-end, implementing the Spotify API such that users can log in with their Spotify accounts and simply click on the playlist they want to download as MP3
 - If the previous bullet is accomplished, I'd like to set up a server to host this service and increase its accessibility!
 I probably won't get around to these all that soon (but I'm totally open to collaboration 👀!) 
