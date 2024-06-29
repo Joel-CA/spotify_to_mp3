@@ -1,7 +1,7 @@
 # Spotify to MP3
 Legally download your favorite Spotify playlists in mp3 format (via YouTube) for free!
 
-This project goes out to my Vivo Music 3 Garmin watch ✊. I didn't want to pay for Spotify Premium to listen to music on it so I built this tool out of spite last night-- and now I can upload my playlists to my watch at the low low cost of nothing :D.
+This project goes out to my Vivo Music 3 Garmin watch ✊. I didn't want to pay for Spotify Premium to listen to music on it so I built this tool out of spite last night-- now I can upload my playlists to my watch at the low low cost of nothing :D.
 
 ## How To
 ### Pre-requisites:
