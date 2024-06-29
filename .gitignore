@@ -4,3 +4,4 @@
 # Ignore other sensitive files or directories
 /__pycache__/
 .vs
+.cache

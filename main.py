@@ -7,7 +7,7 @@ from spotify_API import get_playlist_tracks
 def main(playlist_id, playlist_name):
     song_querys = get_playlist_tracks(playlist_id)
     #increase max_results if it keeps failing to download (although even 1 result has been fine for me)
-    videos_urls, max_results = [], 5
+    videos_urls, max_results = [], 3
     for song_query in song_querys:
         videos_urls.append(get_youtube_urls(song_query, max_results))
 
