@@ -31,7 +31,7 @@ python3 main.py [replace with Spotify playlist ID (without the brackets)] --play
 ```
 *max_results* tells the program, on a per-song basis, how many of the different YouTube video audio tracks to try downloading before giving up. This is necessary because, in my experience, the yt-dlp API is occasionally unable to download the audio from some videos, thus, increasing this number betters the odds of all songs being downloaded successfully. However, the farther down the list of links the program tries, the less relevant results become, the longer the program will take to run, and (I presume) the more YouTube API units you will use. This value is set to 3 by default; feel free to leave it as such, it has worked perfectly well for me.
 
-### [Finding your Spotify playlist ID](https://clients.caster.fm/knowledgebase/110/How-to-find-Spotify-playlist-ID.html#:~:text=To%20find%20the%20Spotify%20playlist,Link%22%20under%20the%20Share%20menu.&text=The%20playlist%20id%20is%20the,after%20playlist%2F%20as%20marked%20above.)](images/playlist-id-image.JPG): 
+### [Finding your Spotify playlist ID](https://clients.caster.fm/knowledgebase/110/How-to-find-Spotify-playlist-ID.html#:~:text=To%20find%20the%20Spotify%20playlist,Link%22%20under%20the%20Share%20menu.&text=The%20playlist%20id%20is%20the,after%20playlist%2F%20as%20marked%20above.): 
 ![[Guide](https://clients.caster.fm/knowledgebase/110/How-to-find-Spotify-playlist-ID.html#:~:text=To%20find%20the%20Spotify%20playlist,Link%22%20under%20the%20Share%20menu.&text=The%20playlist%20id%20is%20the,after%20playlist%2F%20as%20marked%20above.)](images/playlist-id-image.JPG)
 
 ## Notes
