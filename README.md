@@ -5,7 +5,7 @@ This project goes out to my Vivo Music 3 Garmin watch ✊. I didn't want to pay 
 
 ## How To
 ### Pre-requisites:
-- Download and install [FFmpeg](https://ffmpeg.org/download.html). The yt-dlp library uses FFmpeg to convert YouTube audio to MP3. This [guide](https://www.hostinger.com/tutorials/how-to-install-ffmpeg) got me through it-- within the guide Ctr+f to find your operating system!
+- Download and install [FFmpeg](https://ffmpeg.org/download.html). The yt-dlp library uses FFmpeg to convert YouTube audio to MP3. This [guide](https://www.hostinger.com/tutorials/how-to-install-ffmpeg) got me through it-- within the guide Ctr/Cmd+f to find your operating system!
 
 - Get a **Google API key** from https://console.cloud.google.com/apis/library ![[Guide](https://elfsight.com/blog/how-to-get-youtube-api-key-tutorial/)](images/youtube-api-infographic.webp)
 
