@@ -14,11 +14,11 @@ This project goes out to my Vivo Music 3 Garmin watch ✊. I didn't want to pay 
 ### Setting up spotify_to_mp3:
 - After you've downloaded this repository, open a command line within `/spotify_to_mp3` and **run the following command** to download all necessary Python dependencies:
 ```
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 If pip is not recognized as a command, you might need to (re)install [Python](https://www.python.org/).
 
-- Next, follow the instructions in the `/spotify_to_mp3/env.txt` file, copying over your Google API, Client ID, and Client secret keys from before to their appropriate places. Rename the file from 'env.txt` to '.env' when you are done.
+- Next, follow the instructions in the `/spotify_to_mp3/env.txt` file, copying over your Google API, Client ID, and Client secret keys from before to their appropriate places. Make sure to save this file, then rename it from 'env.txt` to '.env' when you are done.
 
 ### Use spotify_to_mp3:
 In a command line, again within `/spotify_to_mp3`, **run**:
