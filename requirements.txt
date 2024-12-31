@@ -1,5 +1,5 @@
 argparse
 spotipy==2.24.0
-dotenv
 yt_dlp
 google-api-python-client
+dotenv
